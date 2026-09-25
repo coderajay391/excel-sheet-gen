@@ -1,0 +1,6 @@
+{
+  "name": "Offline Excel Guider",
+  "description": "Cross-platform offline spreadsheet generator, interactive workbook studio, and formula architect for Windows, macOS, and Linux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
